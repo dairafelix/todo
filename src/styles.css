@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background: url("https://images.pexels.com/photos/933154/pexels-photo-933154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -12,6 +12,8 @@
 p{
     padding: 1px;
     border-bottom: 1px solid BLUE;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 20px;
 }
 .line {
     text-decoration: line-through;
@@ -19,3 +21,12 @@ p{
 input[type=checkbox]:checked + label.strikethrough{
     text-decoration: line-through;
   }
+.container-small {
+    width: 500px;
+}
+.box {
+    padding-left: 20px;
+}
+h2 {
+    font-family: serif;
+}
